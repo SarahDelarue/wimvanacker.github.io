@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ency14 Blog</title>
+ <link href="http://wimvanacker.github.io/atom.xml" rel="self"/>
+ <link href="http://wimvanacker.github.io/"/>
+ <updated>2014-02-15T13:26:37+01:00</updated>
+ <id>http://wimvanacker.github.io</id>
+ <author>
+   <name>Wim Van Acker</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Test</title>
+   <link href="http://wimvanacker.github.io/2014/02/15/test/"/>
+   <updated>2014-02-15T00:00:00+01:00</updated>
+   <id>http://wimvanacker.github.io/2014/02/15/test</id>
+   <content type="html">&lt;p&gt;Test post please ignore&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
